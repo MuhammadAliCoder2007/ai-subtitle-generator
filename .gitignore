@@ -54,7 +54,7 @@ coverage.xml
 .hypothesis/
 
 output/
-upload/
+uploads/
 
 # Jupyter Notebook
 .ipynb_checkpoints
